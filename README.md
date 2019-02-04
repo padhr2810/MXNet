@@ -1,2 +1,2 @@
 # MXNet
-MXNet - optimised machine learning for Amazon Web Services. Shallow and deep learning algorithms applied to healthcare data.
+MXNet - optimised machine learning for AWS. Learning algorithms applied to healthcare data.
